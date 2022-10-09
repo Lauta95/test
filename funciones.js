@@ -10,3 +10,4 @@ asyncFunc().then(data => console.log(data));
 
 console.log(3);
 console.log(4);
+asds
